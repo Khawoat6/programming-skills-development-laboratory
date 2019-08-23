@@ -56,11 +56,23 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
+## Scores
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* Homework          40%
+* Lab Test 1           20%
+* Lab Test 2           20%
+* Lab Test 3           20%
+
+## เกณฑ์การตัดเกรด: อิงเกณฑ์
+* 0-49      F
+* 50-54    D
+* 55-59    D+
+* 60-64    C
+* 65-69    C+
+* 70-74    B
+* 75-79    B+
+* 80-100  A
+
 
 ## Contributing
 
