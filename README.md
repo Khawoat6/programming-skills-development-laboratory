@@ -32,29 +32,34 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Programming Skills 2019
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+| Problem  | Score |
+| ------------- | ------------- |
+| 1_Hello_Skill1  |  100 |
+| 1_Nsum1  |  100 |
+| 1_Corner_Digits  |  100  |
+|1_Closest_Prime  |  80 |
+| 2_Robot1000  |  100 |
+| 2_Tax  |  100 |
+| 2_Grading  |  100 |
+| 2_SwapBits  |  100 |
+| 3_Domino  |  100 |
+| 3_PlusMinus  |  100 |
+| 3_Robot1000s  |  90 |
+| 3_Trucks  |  100 |
+| 4_FourElements  |  100 |
+| 4_mask  |  0 |
+| 4_cola  |  50 |
+| 4_robot2000  |  0 |
+| 5_Alcatraz  |  100 |
+| 5_Birds  |  0 |
+| 5_Chicks  |  60 |
+| 5_WinterIsComing  |  0 |
+| 5_GhostTicket  |  100 |
+| 5_BuggyRobot  |  100 |
+| 5_TheThiefOfBaramos  |  80 |
+| 5_GameOfDeath  |  60 |
 
 ## Scores
 
@@ -73,6 +78,11 @@ Add additional notes about how to deploy this on a live system
 * 75-79    B+
 * 80-100  A
 
+## Authors
+
+**Phattaraphon Chomchaiyaphum** - *Initial work* - [Khawoat6](https://github.com/Khawoat6/)
+
+See also the list of [repositories](https://github.com/Khawoat6?tab=repositories) who participated in this project.
 
 ## Contributing
 
@@ -82,15 +92,16 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
 
-**Phattaraphon Chomchaiyaphum** - *Initial work* - [Khawoat6](https://github.com/Khawoat6/)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
 
 ## Acknowledgments
 
